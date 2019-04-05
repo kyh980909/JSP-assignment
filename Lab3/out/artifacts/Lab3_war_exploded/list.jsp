@@ -25,7 +25,6 @@
     }
 </script>
 
-
 <%if (session.getAttribute("id") == null) { %>  <!-- 로그인 세션이 없을 때 -->
 <h2>개설강좌</h2>
 <table width="900" border="1">
